@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "192.168.4.31.np.io" 
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
